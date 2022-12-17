@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeshanKarunaratne
-- 👀 I’m interested in Learning new technologies.
+- 👀 I’m interested in Learning new technologies(Frontend, Backend, Devops).
 - 🌱 I’m currently Documenting everything I know into github
 - 📫 How to reach me -> via 
                          LinkedIn -> https://www.linkedin.com/in/heshan-karunaratne/ 
