@@ -2,8 +2,8 @@
 - 👀 I’m interested in Learning new technologies(Frontend, Backend, Devops).
 - 🌱 Documenting
 - 📫 How to reach me -> via 
-                         LinkedIn -> https://www.linkedin.com/in/heshan-karunaratne/ 
-                         Facebook ->https://facebook.com/hkarunaratne1
+     - LinkedIn -> https://www.linkedin.com/in/heshan-karunaratne/ 
+     - Facebook ->https://facebook.com/hkarunaratne1
 
 <!---
 HeshanKarunaratne/HeshanKarunaratne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
