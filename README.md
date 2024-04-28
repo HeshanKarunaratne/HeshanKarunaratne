@@ -1,4 +1,4 @@
-👋 Hi, I’m Heshan Karunaratne a Software Engineer 🧑‍💻
+👋 Hi, I’m Heshan Karunaratne and I'm a Software Engineer 🧑‍💻
 
 A little more about me...
 
