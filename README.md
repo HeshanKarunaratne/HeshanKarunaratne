@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @HeshanKarunaratne
-- 👀 I’m interested in Learning new technologies(Frontend, Backend, Devops).
-- 🌱 Documenting
-- 📫 How to reach me -> via 
-     - LinkedIn -> https://www.linkedin.com/in/heshan-karunaratne/ 
-     - Facebook ->https://facebook.com/hkarunaratne1
+👋 Hi, I’m Heshan Karunaratne a Software Engineer 🧑‍💻
 
-<!---
-HeshanKarunaratne/HeshanKarunaratne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A little more about me...
+
+```js
+const heshan = {
+  pronouns: "he" | "him",
+  code: [Java, Javascript, Python],
+  tools: [Springboot, React, Redux, Docker],
+  architecture: ["microservices", "event-driven"],
+};
+```
+
+Find Me on
+
+LinkedIn: https://www.linkedin.com/in/heshan-karunaratne/  
+Facebook: https://facebook.com/hkarunaratne1  
+GitHub: https://github.com/HeshanKarunaratne
